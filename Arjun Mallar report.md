@@ -39,7 +39,7 @@ Introduced myself to API, javascript and html. learnt what an API request is and
 - Used Kali Linux virtual machine to carry out exploration of the commands used frequently.
 - created 2602 files using named A1,A2,...,A100,B1,B2,....,B100,...Z26.
 
-![alt text](image.png)
+
 
 ## learning outcome:
 
@@ -109,8 +109,8 @@ learnt how to solder, came to know about all the components required for solderi
 ## approach:
 understood the internal circuit and working of the 555 timer IC and built the circuit around it.
 
-<video controls src="20260318-0703-44.2279742.mp4" title="Title"></video>
-<video controls src="WhatsApp Video 2026-03-16 at 9.52.23 PM.mp4" title="Title"></video>
+[<video controls src="20260318-0703-44.2279742.mp4" title="Title"></video>
+<video controls src="WhatsApp Video 2026-03-16 at 9.52.23 PM.mp4" title="Title"></video>](https://filebin.net/i8b0fips17ebn64o/555.mp4)
 
 ## learning outcome:
 appreciate the combination of analog electronics, combinatinal and sequential logic design used to build this IC.
